@@ -1,5 +1,9 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
-
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+# CONSUMING API
+### Here has implementations of consuming some  Webservices
+- [X] [GEOIP](https://freegeoip.app/json/)
+- [X] [PLACEHOLDER](https://jsonplaceholder.typicode.com/posts/)
+- [X] [NICKNAME GENERATOR](https://jsonplaceholder.typicode.com/posts/)
+- [ ] [YOUTUBE]()
+- [ ] [WEATHER]()
+- [ ] [FIREBASE]()
+- [ ] [ANOTHER](google.com)
